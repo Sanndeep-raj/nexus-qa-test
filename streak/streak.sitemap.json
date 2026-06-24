@@ -1,0 +1,4159 @@
+[
+  {
+    "url": "/",
+    "renderConfig": {
+      "renderId": "homeRenderId",
+      "metadata": {},
+      "dataHandler": "HomeDataHandler",
+      "rootLayout": "HomeLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "HomeHeroBanner",
+          "type": "HomeHeroBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "HomeStackedWidgets",
+          "type": "HomeStackedWidgets",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeClients",
+          "type": "HomeClients",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeWhyValoriz",
+          "type": "HomeWhyValoriz",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeGoodHands",
+          "type": "HomeGoodHands",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomePartners",
+          "type": "HomePartners",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeCaseStudy",
+          "type": "HomeCaseStudy",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeProducts",
+          "type": "HomeProducts",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeProjectInMind",
+          "type": "HomeProjectInMind",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/about",
+    "renderConfig": {
+      "renderId": "aboutRenderId",
+      "metadata": {},
+      "dataHandler": "AboutDataHandler",
+      "rootLayout": "AboutLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AboutBanner",
+          "type": "AboutBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "AboutMission",
+          "type": "AboutMission",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutHistory",
+          "type": "AboutHistory",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutGrowth",
+          "type": "AboutGrowth",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutInnovations",
+          "type": "AboutInnovations",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutTeam",
+          "type": "AboutTeam",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutLeadership",
+          "type": "AboutLeadership",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AboutAwards",
+          "type": "AboutAwards",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/services",
+    "renderConfig": {
+      "renderId": "servicesRenderId",
+      "metadata": {},
+      "dataHandler": "ServicesDataHandler",
+      "rootLayout": "ServicesLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AboutBanner",
+          "type": "AboutBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "DigitalCommerceSection",
+          "type": "DigitalCommerceSection",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CloudModernisationSection",
+          "type": "CloudModernisationSection",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileApplicationsSection",
+          "type": "MobileApplicationsSection",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalExperienceSection",
+          "type": "DigitalExperienceSection",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QATestingSection",
+          "type": "QATestingSection",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "OtherServices",
+          "type": "OtherServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesHighlights",
+          "type": "ServicesHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeClients",
+          "type": "HomeClients",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeProjectInMind",
+          "type": "HomeProjectInMind",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/products",
+    "renderConfig": {
+      "renderId": "productRenderId",
+      "metadata": {},
+      "dataHandler": "ProductDataHandler",
+      "rootLayout": "ProductLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "ProductsBanner",
+          "type": "ProductsBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "ProductsShopsphere",
+          "type": "ProductsShopsphere",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsStreak",
+          "type": "ProductsStreak",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsKnitrix",
+          "type": "ProductsKnitrix",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsVBrandx",
+          "type": "ProductsVBrandx",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomePartners",
+          "type": "HomePartners",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsGoodHands",
+          "type": "ProductsGoodHands",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductsEnquiry",
+          "type": "ProductsEnquiry",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/careers",
+    "renderConfig": {
+      "renderId": "careers",
+      "metadata": {},
+      "dataHandler": "CareerDataHandler",
+      "rootLayout": "CareerLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CareersBanner",
+          "type": "CareersBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "OpeningList",
+          "type": "OpeningList",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/careers-apply",
+    "renderConfig": {
+      "renderId": "careers-apply",
+      "metadata": {},
+      "dataHandler": "CareersApplyDataHandler",
+      "rootLayout": "CareersApplyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CareersApply",
+          "type": "CareersApply"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/careers-apply/graphic-designer-and-video-editor",
+    "renderConfig": {
+      "renderId": "graphic-designer-and-video-editor",
+      "metadata": {
+        "slug": "graphic-designer-and-video-editor"
+      },
+      "dataHandler": "CareersApplyDataHandler",
+      "rootLayout": "CareersApplyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CareersApply",
+          "type": "CareersApply"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/careers-apply/digital-marketing-intern",
+    "renderConfig": {
+      "renderId": "digital-marketing-intern",
+      "metadata": {
+        "slug": "digital-marketing-intern"
+      },
+      "dataHandler": "CareersApplyDataHandler",
+      "rootLayout": "CareersApplyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CareersApply",
+          "type": "CareersApply"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/careers-apply/digital-marketing-executive",
+    "renderConfig": {
+      "renderId": "digital-marketing-executive",
+      "metadata": {
+        "slug": "digital-marketing-executive"
+      },
+      "dataHandler": "CareersApplyDataHandler",
+      "rootLayout": "CareersApplyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CareersApply",
+          "type": "CareersApply"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/contact",
+    "renderConfig": {
+      "renderId": "contactRenderId",
+      "metadata": {},
+      "dataHandler": "ContactDataHandler",
+      "rootLayout": "ContactLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "ContactSide",
+          "type": "ContactSide"
+        },
+        {
+          "id": "Location",
+          "type": "Location",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-studies",
+    "renderConfig": {
+      "renderId": "case-studies",
+      "metadata": {},
+      "dataHandler": "CaseStudyDataHandler",
+      "rootLayout": "CaseStudyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyList",
+          "type": "CaseStudyList"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "HomeStackedWidgets",
+          "type": "HomeStackedWidgets",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeClients",
+          "type": "HomeClients",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeWhyValoriz",
+          "type": "HomeWhyValoriz",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeGoodHands",
+          "type": "HomeGoodHands",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomePartners",
+          "type": "HomePartners",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeCaseStudy",
+          "type": "HomeCaseStudy",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeProducts",
+          "type": "HomeProducts",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "HomeProjectInMind",
+          "type": "HomeProjectInMind",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/industry",
+    "renderConfig": {
+      "renderId": "industryRenderId",
+      "metadata": {},
+      "dataHandler": "IndustryDataHandler",
+      "rootLayout": "IndustryLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AboutBanner",
+          "type": "AboutBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "Industry",
+          "type": "Industry"
+        },
+        {
+          "id": "ProductsGoodHands",
+          "type": "ProductsGoodHands",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/partners",
+    "renderConfig": {
+      "renderId": "partnersRenderId",
+      "metadata": {},
+      "dataHandler": "PartnersDataHandler",
+      "rootLayout": "PartnersLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "PartnersBanner",
+          "type": "PartnersBanner"
+        },
+        {
+          "id": "Partners",
+          "type": "Partners"
+        },
+        {
+          "id": "WhyPartner",
+          "type": "WhyPartner"
+        },
+        {
+          "id": "PartnersEnquiry",
+          "type": "PartnersEnquiry"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/qa-testing",
+    "renderConfig": {
+      "renderId": "qatestingRenderId",
+      "metadata": {},
+      "dataHandler": "QaTestingDataHandler",
+      "rootLayout": "QaTestingLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingNav",
+          "type": "QaTestingNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/transforming-b2c-retail-brand-experience-platform-with-sanity",
+    "id": "transforming-b2c-retail-brand-experience-platform-with-sanity",
+    "renderConfig": {
+      "renderId": "transforming-b2c-retail-brand-experience-platform-with-sanity",
+      "metadata": {
+        "slug": "transforming-b2c-retail-brand-experience-platform-with-sanity"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/Mirakl-Marketplace-Integration-CaseStudy-Growth",
+    "id": "Mirakl-Marketplace-Integration-CaseStudy-Growth",
+    "renderConfig": {
+      "renderId": "Mirakl-Marketplace-Integration-CaseStudy-Growth",
+      "metadata": {
+        "slug": "Mirakl-Marketplace-Integration-CaseStudy-Growth"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/How-Valoriz-Launched-5-Brands-in-Weeks-Using-Composable-Commerce",
+    "id": "How-Valoriz-Launched-5-Brands-in-Weeks-Using-Composable-Commerce",
+    "renderConfig": {
+      "renderId": "How-Valoriz-Launched-5-Brands-in-Weeks-Using-Composable-Commerce",
+      "metadata": {
+        "slug": "How-Valoriz-Launched-5-Brands-in-Weeks-Using-Composable-Commerce"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/ecommerce-migration-case-study-how-valoriz-moved-7-brands-to-cloud-in-4-months",
+    "id": "ecommerce-migration-case-study-how-valoriz-moved-7-brands-to-cloud-in-4-months",
+    "renderConfig": {
+      "renderId": "ecommerce-migration-case-study-how-valoriz-moved-7-brands-to-cloud-in-4-months",
+      "metadata": {
+        "slug": "ecommerce-migration-case-study-how-valoriz-moved-7-brands-to-cloud-in-4-months"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/azure-data-lake-implementation-case-study-how-valoriz-unified-multi-cloud-data-architecture",
+    "id": "azure-data-lake-implementation-case-study-how-valoriz-unified-multi-cloud-data-architecture",
+    "renderConfig": {
+      "renderId": "azure-data-lake-implementation-case-study-how-valoriz-unified-multi-cloud-data-architecture",
+      "metadata": {
+        "slug": "azure-data-lake-implementation-case-study-how-valoriz-unified-multi-cloud-data-architecture"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/cloud-based-data-integration-for-a-multi-brand-retailer",
+    "id": "cloud-based-data-integration-for-a-multi-brand-retailer",
+    "renderConfig": {
+      "renderId": "cloud-based-data-integration-for-a-multi-brand-retailer",
+      "metadata": {
+        "slug": "cloud-based-data-integration-for-a-multi-brand-retailer"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/mobile-app",
+    "renderConfig": {
+      "renderId": "mobileAppRenderId",
+      "metadata": {},
+      "dataHandler": "MobileAppDataHandler",
+      "rootLayout": "MobileAppLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "MobileAppNav",
+          "type": "MobileAppNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppTech",
+          "type": "MobileAppTech",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/data-analytics",
+    "renderConfig": {
+      "renderId": "dataAnalyticsRenderId",
+      "metadata": {},
+      "dataHandler": "DataAnalyticsDataHandler",
+      "rootLayout": "DataAnalyticsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "DataAnalyticsNav",
+          "type": "DataAnalyticsNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsOverview",
+          "type": "DataAnalyticsOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/digital-commerce",
+    "renderConfig": {
+      "renderId": "digitalCommerceRenderId",
+      "metadata": {},
+      "dataHandler": "DigitalCommerceDataHandler",
+      "rootLayout": "DigitalCommerceLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "DigitalCommerceNav",
+          "type": "DigitalCommerceNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalCommerceOverview",
+          "type": "DigitalCommerceOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalCommerceTechStack",
+          "type": "DigitalCommerceTechStack",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalCommerceServiceProviders",
+          "type": "DigitalCommerceServiceProviders",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/cloud-modernization",
+    "renderConfig": {
+      "renderId": "cloudModernizationRenderId",
+      "metadata": {},
+      "dataHandler": "CloudModernizationDataHandler",
+      "rootLayout": "CloudModernizationLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CloudModernizationBanner",
+          "type": "CloudModernizationBanner"
+        },
+        {
+          "id": "CloudModernizationNav",
+          "type": "CloudModernizationNav"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/digital-experience",
+    "renderConfig": {
+      "renderId": "digitalExperienceRenderId",
+      "metadata": {},
+      "dataHandler": "DigitalExperienceDataHandler",
+      "rootLayout": "DigitalExperienceLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "DigitalExperienceBanner",
+          "type": "DigitalExperienceBanner"
+        },
+        {
+          "id": "DigitalExperienceNav",
+          "type": "DigitalExperienceNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalExperienceOverview",
+          "type": "DigitalExperienceOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DigitalExperienceTrustedAllies",
+          "type": "DigitalExperienceTrustedAllies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/enterprise-software",
+    "renderConfig": {
+      "renderId": "enterpriseSoftwareRenderId",
+      "metadata": {},
+      "dataHandler": "EnterpriseSoftwareDataHandler",
+      "rootLayout": "EnterpriseSoftwareLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "EnterpriseSoftwareNav",
+          "type": "EnterpriseSoftwareNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/ai-ml",
+    "renderConfig": {
+      "renderId": "aiMl",
+      "metadata": {},
+      "dataHandler": "AIMLDataHandler",
+      "rootLayout": "AIMLLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AIMLBanner",
+          "type": "AIMLBanner"
+        },
+        {
+          "id": "AIMLProcess",
+          "type": "AIMLProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLNav",
+          "type": "AIMLNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLOverview",
+          "type": "AIMLOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLServices",
+          "type": "AIMLServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLTech",
+          "type": "AIMLTech",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLTools",
+          "type": "AIMLTools",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AIMLRelatedServices",
+          "type": "AIMLRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/product-engineering",
+    "renderConfig": {
+      "renderId": "productEngineeringRenderId",
+      "metadata": {},
+      "dataHandler": "ProductEngineeringDataHandler",
+      "rootLayout": "ProductEngineeringLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "ProductEngineeringNav",
+          "type": "ProductEngineeringNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductEngineeringOverview",
+          "type": "ProductEngineeringOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ProductEngineeringProducts",
+          "type": "ProductEngineeringProducts",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/dp-automation",
+    "renderConfig": {
+      "renderId": "dpAutomationRenderId",
+      "metadata": {},
+      "dataHandler": "DpAutomationDataHandler",
+      "rootLayout": "DpAutomationLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "QaTestingBanner",
+          "type": "QaTestingBanner"
+        },
+        {
+          "id": "DpAutomationNav",
+          "type": "DpAutomationNav",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DpAutomationOverview",
+          "type": "DpAutomationOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DataAnalyticsHighlights",
+          "type": "DataAnalyticsHighlights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "DpAutomationTech",
+          "type": "DpAutomationTech",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "MobileAppChoose",
+          "type": "MobileAppChoose",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "FAQ",
+          "type": "FAQ",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "QaTestingRelatedServices",
+          "type": "QaTestingRelatedServices",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/clients",
+    "renderConfig": {
+      "renderId": "clientRenderId",
+      "metadata": {},
+      "dataHandler": "ClientDataHandler",
+      "rootLayout": "ClientLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "ClientsBanner",
+          "type": "ClientsBanner"
+        },
+        {
+          "id": "Clients",
+          "type": "Clients",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ClientProjectInMind",
+          "type": "ClientProjectInMind",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/vbrandx",
+    "renderConfig": {
+      "renderId": "vbrandxRenderId",
+      "metadata": {},
+      "dataHandler": "VbrandxDataHandler",
+      "rootLayout": "VbrandxLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "VbrandxBanner",
+          "type": "VbrandxBanner"
+        },
+        {
+          "id": "VbrandxAbout",
+          "type": "VbrandxAbout",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxFeatures",
+          "type": "VbrandxFeatures",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxImpact",
+          "type": "VbrandxImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxWhy",
+          "type": "VbrandxWhy",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxInsights",
+          "type": "VbrandxInsights",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyCarousal",
+          "type": "CaseStudyCarousal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxFaq",
+          "type": "VbrandxFaq",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "VbrandxProjectInMind",
+          "type": "VbrandxProjectInMind",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/revolutionizing-retail-the-impact-of-conversational-ai-on-customer-experience-and-sales",
+    "renderConfig": {
+      "renderId": "revolutionizing-retail-the-impact-of-conversational-ai-on-customer-experience-and-sales",
+      "metadata": {
+        "slug": "revolutionizing-retail-the-impact-of-conversational-ai-on-customer-experience-and-sales"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/life-at-valoriz",
+    "renderConfig": {
+      "renderId": "lifeAtValorizRenderId",
+      "metadata": {},
+      "dataHandler": "LifeAtValorizDataHandler",
+      "rootLayout": "LifeAtValorizLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "LifeBanner",
+          "type": "LifeBanner"
+        },
+        {
+          "id": "LifeOverView",
+          "type": "LifeOverView"
+        },
+        {
+          "id": "LifeInside",
+          "type": "LifeInside"
+        },
+        {
+          "id": "ServerClient",
+          "type": "ServerClient"
+        },
+        {
+          "id": "LifeVideo",
+          "type": "LifeVideo"
+        },
+        {
+          "id": "LifeVoice",
+          "type": "LifeVoice",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "LifeEvents",
+          "type": "LifeEvents",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "LifeWellnessHealth",
+          "type": "LifeWellnessHealth",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "LifeWellnessMedical",
+          "type": "LifeWellnessMedical",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "JoinUsCarousel",
+          "type": "JoinUsCarousel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/awards",
+    "renderConfig": {
+      "renderId": "awardsRenderId",
+      "metadata": {},
+      "dataHandler": "AwardDataHandler",
+      "rootLayout": "AwardLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AwardsBanner",
+          "type": "AwardsBanner"
+        },
+        {
+          "id": "AwardsList",
+          "type": "AwardsList",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "ServerClient",
+          "type": "ServerClient"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "Blogs",
+          "type": "Blogs",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blogs",
+    "renderConfig": {
+      "renderId": "blogsRenderId",
+      "metadata": {},
+      "dataHandler": "BlogListingDataHandler",
+      "rootLayout": "BlogListingLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogListing",
+          "type": "BlogListing"
+        },
+        {
+          "id": "ServerClient",
+          "type": "ServerClient"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/sitemap-creation",
+    "renderConfig": {
+      "renderId": "sitemapRenderId",
+      "metadata": {},
+      "dataHandler": "SiteMapDataHandler",
+      "rootLayout": "SitemapLayout",
+      "widgets": [
+        {
+          "id": "SitemapContent",
+          "type": "SitemapContent"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/data-engineering-for-a-multi-brand-retailer",
+    "id": "data-engineering-for-a-multi-brand-retailer",
+    "renderConfig": {
+      "renderId": "data-engineering-for-a-multi-brand-retailer",
+      "metadata": {
+        "slug": "data-engineering-for-a-multi-brand-retailer"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/legacy-app-modernization-for-a-mobile-ticketing-solution",
+    "id": "legacy-app-modernization-for-a-mobile-ticketing-solution",
+    "renderConfig": {
+      "renderId": "legacy-app-modernization-for-a-mobile-ticketing-solution",
+      "metadata": {
+        "slug": "legacy-app-modernization-for-a-mobile-ticketing-solution"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/field-sales-management-mobile-app-to-boost-productivity-and-revenue",
+    "id": "field-sales-management-mobile-app-to-boost-productivity-and-revenue",
+    "renderConfig": {
+      "renderId": "field-sales-management-mobile-app-to-boost-productivity-and-revenue",
+      "metadata": {
+        "slug": "field-sales-management-mobile-app-to-boost-productivity-and-revenue"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/how-ai-is-transforming-ecommerce-businesses",
+    "renderConfig": {
+      "renderId": "how-ai-is-transforming-ecommerce-businesses",
+      "metadata": {
+        "slug": "how-ai-is-transforming-ecommerce-businesses"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/what-is-artificial-intelligence-ai-in-business-meaning-uses-benefits-and-future",
+    "renderConfig": {
+      "renderId": "what-is-artificial-intelligence-ai-in-business-meaning-uses-benefits-and-future",
+      "metadata": {
+        "slug": "what-is-artificial-intelligence-ai-in-business-meaning-uses-benefits-and-future"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/how-to-speed-up-a-wordpress-website-for-better-user-experience",
+    "renderConfig": {
+      "renderId": "how-to-speed-up-a-wordpress-website-for-better-user-experience",
+      "metadata": {
+        "slug": "how-to-speed-up-a-wordpress-website-for-better-user-experience"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/what-is-agentic-commerce-and-how-it-changes-online-payments",
+    "renderConfig": {
+      "renderId": "what-is-agentic-commerce-and-how-it-changes-online-payments",
+      "metadata": {
+        "slug": "what-is-agentic-commerce-and-how-it-changes-online-payments"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/how-analytics-tools-help-make-website-flow-smoother-with-case-study",
+    "renderConfig": {
+      "renderId": "how-analytics-tools-help-make-website-flow-smoother-with-case-study",
+      "metadata": {
+        "slug": "how-analytics-tools-help-make-website-flow-smoother-with-case-study"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/best-e-commerce-development-companies-in-dubai",
+    "renderConfig": {
+      "renderId": "best-e-commerce-development-companies-in-dubai",
+      "metadata": {
+        "slug": "best-e-commerce-development-companies-in-dubai"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/webassembly-explained-powering-high-performance-web-applications",
+    "renderConfig": {
+      "renderId": "webassembly-explained-powering-high-performance-web-applications",
+      "metadata": {
+        "slug": "webassembly-explained-powering-high-performance-web-applications"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/from-crud-to-ai-native-how-backend-engineering-is-changing",
+    "renderConfig": {
+      "renderId": "blogdetailRenderId",
+      "metadata": {
+        "slug": "from-crud-to-ai-native-how-backend-engineering-is-changing"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/404",
+    "renderConfig": {
+      "renderId": "notFoundRenderId",
+      "metadata": {},
+      "dataHandler": "NotFoundDataHandler",
+      "rootLayout": "NotFoundLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "NotFoundContent",
+          "type": "NotFoundContent"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/top-5-fastest-frontend-frameworks-in-2026",
+    "renderConfig": {
+      "renderId": "top-5-fastest-frontend-frameworks-in-2026",
+      "metadata": {
+        "slug": "top-5-fastest-frontend-frameworks-in-2026"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/best-e-commerce-development-companies-in-kerala",
+    "renderConfig": {
+      "renderId": "best-e-commerce-development-companies-in-kerala",
+      "metadata": {
+        "slug": "best-e-commerce-development-companies-in-kerala"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/ai-business-process-automation-how-companies-automate-operations-and-save-thousands",
+    "renderConfig": {
+      "renderId": "ai-business-process-automation-how-companies-automate-operations-and-save-thousands",
+      "metadata": {
+        "slug": "ai-business-process-automation-how-companies-automate-operations-and-save-thousands"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/ai-driven-cobol-modernization-a-turning-point-for-enterprise-it",
+    "renderConfig": {
+      "renderId": "ai-driven-cobol-modernization-a-turning-point-for-enterprise-it",
+      "metadata": {
+        "slug": "ai-driven-cobol-modernization-a-turning-point-for-enterprise-it"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/the-digital-transformation-in-marketing-how-social-media-shapes-what-we-see-and-buy",
+    "renderConfig": {
+      "renderId": "the-digital-transformation-in-marketing-how-social-media-shapes-what-we-see-and-buy",
+      "metadata": {
+        "slug": "the-digital-transformation-in-marketing-how-social-media-shapes-what-we-see-and-buy"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/pim-transformation-using-akeneo-for-scalable-e-commerce",
+    "id": "pim-transformation-using-akeneo-for-scalable-e-commerce",
+    "renderConfig": {
+      "renderId": "pim-transformation-using-akeneo-for-scalable-e-commerce",
+      "metadata": {
+        "slug": "pim-transformation-using-akeneo-for-scalable-e-commerce"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/best-agentic-ai-companies-in-india-driving-intelligent-automation",
+    "renderConfig": {
+      "renderId": "best-agentic-ai-companies-in-india-driving-intelligent-automation",
+      "metadata": {
+        "slug": "best-agentic-ai-companies-in-india-driving-intelligent-automation"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/privacy-policy",
+    "renderConfig": {
+      "renderId": "privacy-policy",
+      "metadata": {},
+      "dataHandler": "PrivacyDataHandler",
+      "rootLayout": "PrivacyLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "PrivacyContent",
+          "type": "PrivacyContent"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/case-study/composable-e-commerce-transformation-with-akeneo-pim-for-a-luxury-retailer",
+    "id": "composable-e-commerce-transformation-with-akeneo-pim-for-a-luxury-retailer",
+    "renderConfig": {
+      "renderId": "composable-e-commerce-transformation-with-akeneo-pim-for-a-luxury-retailer",
+      "metadata": {
+        "slug": "composable-e-commerce-transformation-with-akeneo-pim-for-a-luxury-retailer"
+      },
+      "dataHandler": "CaseStudyDetailsDataHandler",
+      "rootLayout": "CaseStudyDetailsLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "CaseStudyBanner",
+          "type": "CaseStudyBanner"
+        },
+        {
+          "id": "CaseStudyChallenges",
+          "type": "CaseStudyChallenges",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyGoal",
+          "type": "CaseStudyGoal",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImageReel",
+          "type": "CaseStudyImageReel",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyOverview",
+          "type": "CaseStudyOverview",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyProcess",
+          "type": "CaseStudyProcess",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudySolution",
+          "type": "CaseStudySolution",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyTechnologies",
+          "type": "CaseStudyTechnologies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyImpact",
+          "type": "CaseStudyImpact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CaseStudyConclusion",
+          "type": "CaseStudyConclusion",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarCaseStudies",
+          "type": "SimilarCaseStudies",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/re-architecting-the-future-how-real-cloud-modernization-is-unlocked-by-microservices",
+    "renderConfig": {
+      "renderId": "re-architecting-the-future-how-real-cloud-modernization-is-unlocked-by-microservices",
+      "metadata": {
+        "slug": "re-architecting-the-future-how-real-cloud-modernization-is-unlocked-by-microservices"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/top-mobile-app-development-companies-in-india",
+    "renderConfig": {
+      "renderId": "top-mobile-app-development-companies-in-india",
+      "metadata": {
+        "slug": "top-mobile-app-development-companies-in-india"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/best-akeneo-partners-in-dubai-top-companies-to-consider-for-your-growth",
+    "renderConfig": {
+      "renderId": "best-akeneo-partners-in-dubai-top-companies-to-consider-for-your-growth",
+      "metadata": {
+        "slug": "best-akeneo-partners-in-dubai-top-companies-to-consider-for-your-growth"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/how-to-sync-product-data-between-erp-and-ecommerce-without-manual-work",
+    "renderConfig": {
+      "renderId": "how-to-sync-product-data-between-erp-and-ecommerce-without-manual-work",
+      "metadata": {
+        "slug": "how-to-sync-product-data-between-erp-and-ecommerce-without-manual-work"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/blog/how-to-automate-product-uploads-in-ecommerce",
+    "renderConfig": {
+      "renderId": "how-to-automate-product-uploads-in-ecommerce",
+      "metadata": {
+        "slug": "how-to-automate-product-uploads-in-ecommerce"
+      },
+      "dataHandler": "BlogDetailDataHandler",
+      "rootLayout": "BlogDetailLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "BlogBanner",
+          "type": "BlogBanner"
+        },
+        {
+          "id": "BlogDetails",
+          "type": "BlogDetails",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "SimilarArticles",
+          "type": "SimilarArticles",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  },
+  {
+    "url": "/digital-marketing",
+    "renderConfig": {
+      "renderId": "digitalMarketingRenderId",
+      "metadata": {},
+      "dataHandler": "DigitalMarketingDataHandler",
+      "rootLayout": "DigitalMarketingLayout",
+      "widgets": [
+        {
+          "id": "AppHead",
+          "type": "AppHead"
+        },
+        {
+          "id": "CommonHeader",
+          "type": "CommonHeader"
+        },
+        {
+          "id": "AnimationHelpers",
+          "type": "AnimationHelpers"
+        },
+        {
+          "id": "CloudModernizationBanner",
+          "type": "CloudModernizationBanner"
+        },
+        { "id": "CloudModernizationNav", "type": "CloudModernizationNav" },
+        {
+          "id": "QaTestingOverview",
+          "type": "QaTestingOverview"
+        },
+        {
+          "id": "DigitalMarketingIndustry",
+          "type": "DigitalMarketingIndustry"
+        },
+        {
+          "id": "QaTestingProcess",
+          "type": "QaTestingProcess"
+        },
+        { "id": "DigitalMarketingTech", "type": "DigitalMarketingTech" },
+        {
+          "id": "DigitalMarketingStrategy",
+          "type": "DigitalMarketingStrategy"
+        },
+        { "id": "FAQ", "type": "FAQ" },
+        {
+          "id": "ServicesContact",
+          "type": "ServicesContact",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "CommonFooter",
+          "type": "CommonFooter",
+          "loadingStrategy": "lazy"
+        },
+        {
+          "id": "AnalyticsHelpers",
+          "type": "AnalyticsHelpers",
+          "loadingStrategy": "lazy"
+        }
+      ],
+      "version": "1.0.0"
+    }
+  }
+]

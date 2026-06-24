@@ -1,0 +1,7 @@
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, s-maxage=31536000, max-age=0, must-revalidate"
+[[edge_functions]]
+  path = "/*"
+  function = "router"

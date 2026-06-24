@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32"
+    height="21.34" viewBox="0 0 32 21.34">
+    <defs>
+        <clipPath id="clip-uae">
+            <rect width="32" height="21.34" />
+        </clipPath>
+    </defs>
+    <g id="uae" clip-path="url(#clip-uae)">
+        <g id="icons_uae" data-name="icons/uae" transform="translate(-6 -9.332)">
+            <path id="Vector" d="M38,9.332H6V30.666H38Z" transform="translate(0)" fill="#f0f0f0" />
+            <path id="Vector_2" d="M38,9.332H6v7.111H38Z" transform="translate(0)" fill="#6da544" />
+            <path id="Vector_3" d="M38,18.223H6v7.111H38Z" transform="translate(0 5.334)" />
+            <path id="Vector_4" d="M16.666,9.332H6V30.666H16.666Z" transform="translate(0)"
+                fill="#a2001d" />
+        </g>
+    </g>
+</svg>

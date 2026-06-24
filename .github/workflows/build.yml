@@ -1,0 +1,42 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - master
+      - release
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    environment: ${{ github.ref_name == 'master' && 'staging' || github.ref_name == 'release' && 'production' }}
+
+    if: github.ref_name == 'master' || github.ref_name == 'release'
+
+    defaults:
+      run:
+        working-directory: streak
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v1
+
+      - run: bun install
+      - run: bun run build
+
+      - name: Zip build
+        run: |
+          cd .prebuild
+          zip -r ../build-output.zip .
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: build-${{ github.ref_name == 'master' && 'staging' || 'production' }}-${{ github.run_number }}
+          name: Build ${{ github.run_number }} (${{ github.ref_name == 'master' && 'Staging' || 'Production' }})
+          files: streak/build-output.zip

@@ -1,0 +1,30 @@
+{
+  "name": "teststreak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 -m http.server 8000 --directory out",
+    "css-build": "tailwindcss -i ./src/common/styles/input.css -o ./public/styles/tailwind.css",
+    "css-dev": "tailwindcss -i ./src/common/styles/input.css -o ./public/styles/tailwind.css --watch",
+    "dev:streak": "streak-forge dev",
+    "dev": "concurrently -k -n TAILWIND,STREAK -c blue,green \"bun run css-dev\" \"bun run dev:streak\"",
+    "build": "bun run css-build && streak-forge pre-build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@sanity/client": "^7.11.2",
+    "@sanity/image-url": "^1.2.0",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "streak": "./streak-forge-2.0.36.tgz"
+  },
+  "devDependencies": {
+    "bun": "^1.2.21",
+    "concurrently": "^9.2.1",
+    "tailwindcss": "^3.4.17",
+    "tailwind-merge": "^2.5.5"
+  }
+}
